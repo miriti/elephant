@@ -1,5 +1,5 @@
 {
-    "name": "elephant",
+    "name": "elephant-gtd",
     "version": "0.1.0",
     "description": "CLI GTD tool",
     "main": "elephant.js",
@@ -7,7 +7,7 @@
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "https://github.com/miriti/elephant.git"
+        "url": "https://github.com/miriti/elephant-gtd.git"
     },
     "dependencies": {
         "moment": "^2.14.1"
