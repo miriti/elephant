@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 var moment = require('moment');
 var fs = require('fs');
 
