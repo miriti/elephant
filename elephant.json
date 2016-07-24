@@ -1,0 +1,25 @@
+{
+    "title": "insprint.io",
+    "start": "2016-05-01",
+    "due": "2016-07-29",
+    "description": "The brand new InsPrint.io",
+    "tasks": [{
+        "title": "Review tasks to create",
+        "description": "Пройтись по тому что сделано и написать сюда что не сделано"
+    }, {
+        "title": "Search back-end"
+    }, {
+        "title": "API"
+    }, {
+        "title": "UI"
+    }, {
+        "title": "Desktop Application",
+        "due": "2016-07-29",
+        "tasks": [{
+            "title": "Log-in",
+            "done": true
+        }, {
+            "title": "Request list of the photos to print"
+        }]
+    }]
+}

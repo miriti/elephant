@@ -1,0 +1,11 @@
+{
+  "name": "elephant",
+  "version": "1.0.0",
+  "description": "GTD tool",
+  "main": "elephant.js",
+  "author": "Michael Miriti",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.14.1"
+  }
+}
