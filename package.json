@@ -1,6 +1,6 @@
 {
     "name": "elephant",
-    "version": "1.0.0",
+    "version": "0.1.0",
     "description": "CLI GTD tool",
     "main": "elephant.js",
     "author": "Michael Miriti <michael@miriti.ru>",
