@@ -1,16 +1,16 @@
 {
-    "name": "elephant-gtd",
-    "version": "0.1.0",
-    "description": "CLI GTD tool",
-    "main": "elephant.js",
-    "author": "Michael Miriti <michael@miriti.ru>",
-    "license": "MIT",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/miriti/elephant-gtd.git"
-    },
-    "dependencies": {
-        "moment": "^2.14.1"
-    },
-    "bin": "./elephant.js"
+  "name": "elephant-gtd",
+  "version": "0.1.1",
+  "description": "CLI GTD tool",
+  "main": "elephant.js",
+  "author": "Michael Miriti <michael@miriti.ru>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/miriti/elephant-gtd.git"
+  },
+  "dependencies": {
+    "moment": "^2.14.1"
+  },
+  "bin": "./elephant.js"
 }
