@@ -10,7 +10,9 @@
     "url": "https://github.com/miriti/elephant-gtd.git"
   },
   "dependencies": {
-    "moment": "^2.14.1"
+    "moment": "^2.14.1",
+    "prompt": "^1.0.0",
+    "sprintf-js": "^1.0.3"
   },
-  "bin": "./elephant.js"
+  "bin": "./bin/elephant.js"
 }
